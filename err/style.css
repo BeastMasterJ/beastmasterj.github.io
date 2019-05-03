@@ -1,0 +1,123 @@
+﻿body {
+	background-image: url(http://akk.li/gfx/bg3.png);
+	background-color: #000;
+	text-align: center;
+	color: #FFF;
+	font-style:normal;
+        font-family: Verdana, "Segoe UI", Helvetica, Sans-Serif; 
+	
+	
+}
+
+h1 {
+font-family:Verdana, Geneva, sans-serif
+color: #FFF;
+font-style:normal;
+}
+
+#content {
+width: 950px;
+margin: 15% auto;
+height: auto;
+border-radius: 0;
+border: 1px solid #efefef;
+background:rgba(0,0,0,0.6);
+box-shadow: 0px 0px 8px #000;
+align-content: center;
+text-align: center;
+-webkit-animation: .893475893479s anim ease;
+-moz-animation: .893475893479s anim ease;
+-o-animation: .893475893479s anim ease;
+-ms-animation: .893475893479s anim ease;
+animation: .893475893479s anim ease;
+color: ddd;
+}
+
+
+
+@-webkit-keyframes anim{
+	from {
+		width: 300px;
+		opacity: 0;
+	
+	
+		
+	}
+
+	to {
+		width: 950px;
+		opacity: 1;
+	
+		
+
+	}
+}
+
+@-moz-keyframes anim{
+	from {
+		width: 300px;
+		opacity: 0;
+	
+	
+		
+	}
+
+	to {
+		width: 950px;
+		opacity: 1;
+	
+		
+
+	}
+}
+@-o-keyframes anim{
+	from {
+		width: 300px;
+		opacity: 0;
+	
+	
+		
+	}
+
+	to {
+		width: 950px;
+		opacity: 1;
+	
+		
+
+	}
+}
+@-ms-keyframes anim{
+	from {
+		width: 300px;
+		opacity: 0;
+	
+	
+		
+	}
+
+	to {
+		width: 950px;
+		opacity: 1;
+	
+		
+
+	}
+}
+@keyframes anim{
+	from {
+		width: 300px;
+		opacity: 0;
+	
+	
+		
+	}
+
+	to {
+		width: 950px;
+		opacity: 1;
+	
+		
+
+	}
+}
